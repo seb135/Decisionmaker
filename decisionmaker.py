@@ -1,5 +1,4 @@
 from random import choice
-import pandas as pd
 
 options = ['Go for a walk', 'Play a video game', 'Do something productive', 'Netflix & Chill', 'Go shopping']
 
