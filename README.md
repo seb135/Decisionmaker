@@ -4,5 +4,4 @@
  - Clear textbox and generate new answer on reclick
  - Get response based on mood.
  - Manually add activities to list of options
- - Store activities in database --> Pandas
- - test
+ - Store activities in database --> Pandas?
