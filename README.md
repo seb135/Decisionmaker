@@ -1,4 +1,4 @@
-# Decisionmaker
+# Decision maker 3000
  A simple tool for indecisive people. 
  Future upgrades:
  - Clear textbox and generate new answer on reclick
